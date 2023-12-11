@@ -17,7 +17,8 @@ pip install tensorflow numpy pandas scikit-learn matplotlib
 Usage
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ToOLazYTOthinKOFAName0
+/csrg.git
 cd your-repository
 Replace 'DL.csv' with the actual CSV file name containing your dataset.
 
